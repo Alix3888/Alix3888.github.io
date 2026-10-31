@@ -1,6 +1,6 @@
 console.log(`Alix3888\n1+1=${1+1}`)
 
-mom.innerHTML=`мама, мы с алешей сделали этот сайт. Мы тебя любим!`
+mom.innerHTML=`мама, мы с алешей сделали этот сайт. Мы тебя любим!<br>Папа мы тебя тоже очень сильно любим!`
 mom.style.fontSize="5rem"
 mom.style.color="#FF59B1"
 
